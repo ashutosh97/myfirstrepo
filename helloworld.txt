@@ -1,0 +1,4 @@
+Hi there !
+This is the first time I created a repository (here onwards, repo) and pushed it to Github. 
+I learnt pushing a repo and committing changes to my repository using Git documentation. 
+Go ahead, give yours a try too - it's awesome ! 
